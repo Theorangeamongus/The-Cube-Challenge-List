@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "MinnoxMilo",
+            "link": "https://streamable.com/vs0k8m",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
